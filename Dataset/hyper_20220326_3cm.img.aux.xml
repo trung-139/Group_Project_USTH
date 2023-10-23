@@ -1,0 +1,906 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">BAND</MDI>
+  </Metadata>
+  <Metadata>
+    <MDI key="Band_1">Mosaic (Band 1) (410.138000)</MDI>
+    <MDI key="Band_2">Mosaic (Band 2) (414.751007)</MDI>
+    <MDI key="Band_3">Mosaic (Band 3) (419.363007)</MDI>
+    <MDI key="Band_4">Mosaic (Band 4) (423.972992)</MDI>
+    <MDI key="Band_5">Mosaic (Band 5) (428.582001)</MDI>
+    <MDI key="Band_6">Mosaic (Band 6) (433.188995)</MDI>
+    <MDI key="Band_7">Mosaic (Band 7) (437.795013)</MDI>
+    <MDI key="Band_8">Mosaic (Band 8) (442.399994)</MDI>
+    <MDI key="Band_9">Mosaic (Band 9) (447.002991)</MDI>
+    <MDI key="Band_10">Mosaic (Band 10) (451.605011)</MDI>
+    <MDI key="Band_11">Mosaic (Band 11) (456.205994)</MDI>
+    <MDI key="Band_12">Mosaic (Band 12) (460.804993)</MDI>
+    <MDI key="Band_13">Mosaic (Band 13) (465.403015)</MDI>
+    <MDI key="Band_14">Mosaic (Band 14) (470.000000)</MDI>
+    <MDI key="Band_15">Mosaic (Band 15) (474.595001)</MDI>
+    <MDI key="Band_16">Mosaic (Band 16) (479.188995)</MDI>
+    <MDI key="Band_17">Mosaic (Band 17) (483.781006)</MDI>
+    <MDI key="Band_18">Mosaic (Band 18) (488.372009)</MDI>
+    <MDI key="Band_19">Mosaic (Band 19) (492.962006)</MDI>
+    <MDI key="Band_20">Mosaic (Band 20) (497.550995)</MDI>
+    <MDI key="Band_21">Mosaic (Band 21) (502.138000)</MDI>
+    <MDI key="Band_22">Mosaic (Band 22) (506.722992)</MDI>
+    <MDI key="Band_23">Mosaic (Band 23) (511.308014)</MDI>
+    <MDI key="Band_24">Mosaic (Band 24) (515.890991)</MDI>
+    <MDI key="Band_25">Mosaic (Band 25) (520.471985)</MDI>
+    <MDI key="Band_26">Mosaic (Band 26) (525.052002)</MDI>
+    <MDI key="Band_27">Mosaic (Band 27) (529.630981)</MDI>
+    <MDI key="Band_28">Mosaic (Band 28) (534.208984)</MDI>
+    <MDI key="Band_29">Mosaic (Band 29) (538.784973)</MDI>
+    <MDI key="Band_30">Mosaic (Band 30) (543.359009)</MDI>
+    <MDI key="Band_31">Mosaic (Band 31) (550.000000)</MDI>
+    <MDI key="Band_32">Mosaic (Band 32) (552.505005)</MDI>
+    <MDI key="Band_33">Mosaic (Band 33) (557.075989)</MDI>
+    <MDI key="Band_34">Mosaic (Band 34) (561.645020)</MDI>
+    <MDI key="Band_35">Mosaic (Band 35) (566.213013)</MDI>
+    <MDI key="Band_36">Mosaic (Band 36) (570.778992)</MDI>
+    <MDI key="Band_37">Mosaic (Band 37) (575.344971)</MDI>
+    <MDI key="Band_38">Mosaic (Band 38) (579.908997)</MDI>
+    <MDI key="Band_39">Mosaic (Band 39) (584.471008)</MDI>
+    <MDI key="Band_40">Mosaic (Band 40) (589.031982)</MDI>
+    <MDI key="Band_41">Mosaic (Band 41) (593.591980)</MDI>
+    <MDI key="Band_42">Mosaic (Band 42) (598.150024)</MDI>
+    <MDI key="Band_43">Mosaic (Band 43) (602.706970)</MDI>
+    <MDI key="Band_44">Mosaic (Band 44) (607.263000)</MDI>
+    <MDI key="Band_45">Mosaic (Band 45) (611.817017)</MDI>
+    <MDI key="Band_46">Mosaic (Band 46) (616.369995)</MDI>
+    <MDI key="Band_47">Mosaic (Band 47) (620.000000)</MDI>
+    <MDI key="Band_48">Mosaic (Band 48) (625.471985)</MDI>
+    <MDI key="Band_49">Mosaic (Band 49) (630.020996)</MDI>
+    <MDI key="Band_50">Mosaic (Band 50) (634.568970)</MDI>
+    <MDI key="Band_51">Mosaic (Band 51) (639.114990)</MDI>
+    <MDI key="Band_52">Mosaic (Band 52) (643.658997)</MDI>
+    <MDI key="Band_53">Mosaic (Band 53) (648.203003)</MDI>
+    <MDI key="Band_54">Mosaic (Band 54) (652.744995)</MDI>
+    <MDI key="Band_55">Mosaic (Band 55) (657.286011)</MDI>
+    <MDI key="Band_56">Mosaic (Band 56) (661.825012)</MDI>
+    <MDI key="Band_57">Mosaic (Band 57) (666.362976)</MDI>
+    <MDI key="Band_58">Mosaic (Band 58) (670.900024)</MDI>
+    <MDI key="Band_59">Mosaic (Band 59) (675.434998)</MDI>
+    <MDI key="Band_60">Mosaic (Band 60) (679.968994)</MDI>
+    <MDI key="Band_61">Mosaic (Band 61) (684.500977)</MDI>
+    <MDI key="Band_62">Mosaic (Band 62) (689.031982)</MDI>
+    <MDI key="Band_63">Mosaic (Band 63) (693.562012)</MDI>
+    <MDI key="Band_64">Mosaic (Band 64) (698.091003)</MDI>
+    <MDI key="Band_65">Mosaic (Band 65) (702.617981)</MDI>
+    <MDI key="Band_66">Mosaic (Band 66) (707.143005)</MDI>
+    <MDI key="Band_67">Mosaic (Band 67) (711.668030)</MDI>
+    <MDI key="Band_68">Mosaic (Band 68) (716.190979)</MDI>
+    <MDI key="Band_69">Mosaic (Band 69) (720.711975)</MDI>
+    <MDI key="Band_70">Mosaic (Band 70) (725.232971)</MDI>
+    <MDI key="Band_71">Mosaic (Band 71) (729.750977)</MDI>
+    <MDI key="Band_72">Mosaic (Band 72) (734.268982)</MDI>
+    <MDI key="Band_73">Mosaic (Band 73) (738.784973)</MDI>
+    <MDI key="Band_74">Mosaic (Band 74) (743.299988)</MDI>
+    <MDI key="Band_75">Mosaic (Band 75) (747.812988)</MDI>
+    <MDI key="Band_76">Mosaic (Band 76) (752.325012)</MDI>
+    <MDI key="Band_77">Mosaic (Band 77) (756.835999)</MDI>
+    <MDI key="Band_78">Mosaic (Band 78) (761.346008)</MDI>
+    <MDI key="Band_79">Mosaic (Band 79) (765.854004)</MDI>
+    <MDI key="Band_80">Mosaic (Band 80) (770.359985)</MDI>
+    <MDI key="Band_81">Mosaic (Band 81) (774.864990)</MDI>
+    <MDI key="Band_82">Mosaic (Band 82) (779.369019)</MDI>
+    <MDI key="Band_83">Mosaic (Band 83) (783.872009)</MDI>
+    <MDI key="Band_84">Mosaic (Band 84) (788.372986)</MDI>
+    <MDI key="Band_85">Mosaic (Band 85) (792.872986)</MDI>
+    <MDI key="Band_86">Mosaic (Band 86) (797.370972)</MDI>
+    <MDI key="Band_87">Mosaic (Band 87) (801.867981)</MDI>
+    <MDI key="Band_88">Mosaic (Band 88) (806.364014)</MDI>
+    <MDI key="Band_89">Mosaic (Band 89) (810.857971)</MDI>
+    <MDI key="Band_90">Mosaic (Band 90) (815.351990)</MDI>
+    <MDI key="Band_91">Mosaic (Band 91) (819.843018)</MDI>
+    <MDI key="Band_92">Mosaic (Band 92) (824.333008)</MDI>
+    <MDI key="Band_93">Mosaic (Band 93) (828.822021)</MDI>
+    <MDI key="Band_94">Mosaic (Band 94) (833.309998)</MDI>
+    <MDI key="Band_95">Mosaic (Band 95) (837.796021)</MDI>
+    <MDI key="Band_96">Mosaic (Band 96) (842.281006)</MDI>
+    <MDI key="Band_97">Mosaic (Band 97) (846.763977)</MDI>
+    <MDI key="Band_98">Mosaic (Band 98) (851.245972)</MDI>
+    <MDI key="Band_99">Mosaic (Band 99) (855.726990)</MDI>
+    <MDI key="Band_100">Mosaic (Band 100) (860.206970)</MDI>
+    <MDI key="Band_101">Mosaic (Band 101) (864.684998)</MDI>
+    <MDI key="Band_102">Mosaic (Band 102) (869.161011)</MDI>
+    <MDI key="Band_103">Mosaic (Band 103) (873.637024)</MDI>
+    <MDI key="Band_104">Mosaic (Band 104) (878.109985)</MDI>
+    <MDI key="Band_105">Mosaic (Band 105) (882.583008)</MDI>
+    <MDI key="Band_106">Mosaic (Band 106) (887.054016)</MDI>
+    <MDI key="Band_107">Mosaic (Band 107) (891.523987)</MDI>
+    <MDI key="Band_108">Mosaic (Band 108) (895.992981)</MDI>
+    <MDI key="Band_109">Mosaic (Band 109) (900.460022)</MDI>
+    <MDI key="Band_110">Mosaic (Band 110) (904.924988)</MDI>
+    <MDI key="Band_111">Mosaic (Band 111) (909.390015)</MDI>
+    <MDI key="Band_112">Mosaic (Band 112) (913.853027)</MDI>
+    <MDI key="Band_113">Mosaic (Band 113) (918.315002)</MDI>
+    <MDI key="Band_114">Mosaic (Band 114) (922.775024)</MDI>
+    <MDI key="Band_115">Mosaic (Band 115) (927.234009)</MDI>
+    <MDI key="Band_116">Mosaic (Band 116) (931.690979)</MDI>
+    <MDI key="Band_117">Mosaic (Band 117) (936.148010)</MDI>
+    <MDI key="Band_118">Mosaic (Band 118) (940.601990)</MDI>
+    <MDI key="Band_119">Mosaic (Band 119) (945.056030)</MDI>
+    <MDI key="Band_120">Mosaic (Band 120) (949.507996)</MDI>
+    <MDI key="Band_121">Mosaic (Band 121) (953.958984)</MDI>
+    <MDI key="Band_122">Mosaic (Band 122) (958.408020)</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Mosaic (Band 1) (410.138000)</Description>
+    <Metadata>
+      <MDI key="Wavelength">410.138000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>Mosaic (Band 2) (414.751007)</Description>
+    <Metadata>
+      <MDI key="Wavelength">414.751007</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>Mosaic (Band 3) (419.363007)</Description>
+    <Metadata>
+      <MDI key="Wavelength">419.363007</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>Mosaic (Band 4) (423.972992)</Description>
+    <Metadata>
+      <MDI key="Wavelength">423.972992</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>Mosaic (Band 5) (428.582001)</Description>
+    <Metadata>
+      <MDI key="Wavelength">428.582001</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>Mosaic (Band 6) (433.188995)</Description>
+    <Metadata>
+      <MDI key="Wavelength">433.188995</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>Mosaic (Band 7) (437.795013)</Description>
+    <Metadata>
+      <MDI key="Wavelength">437.795013</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>Mosaic (Band 8) (442.399994)</Description>
+    <Metadata>
+      <MDI key="Wavelength">442.399994</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>Mosaic (Band 9) (447.002991)</Description>
+    <Metadata>
+      <MDI key="Wavelength">447.002991</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>Mosaic (Band 10) (451.605011)</Description>
+    <Metadata>
+      <MDI key="Wavelength">451.605011</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>Mosaic (Band 11) (456.205994)</Description>
+    <Metadata>
+      <MDI key="Wavelength">456.205994</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>Mosaic (Band 12) (460.804993)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>37767030|4500906|6363236|4954851|4853700|3523024|2192873|1386155|953298|598256|418270|305129|227645|198324|82838|146474|107808|85294|58766|43951|25717|18108|30541|8291|6604|4396|3992|28237|1941|2562|1761|1100|1786|20896|857|1079|1465|5477|780|1275|1056|786|1773|402|24440|560|577|522|897|382|1907|1171|445|24410|226|407|214|3361|162|713|243|155|144|108|122|1130|26454|79|98|86|89|29|99|184|396|78|2083|731|46|15367|58|64|58|555|100|53|645|35|13221|40|51|39|113|43|1076|38|64|465|25|4|9408|28|31|498|31|22|10280|153|42|32|3524|27|25|485|39|21|222|56|33|32|37|20|26|31|21|31|26|14|11|507|180|31|10|15824|30|8|11|4|10|9|6|3|6|4|4|8|2|11|93|3|17|84|1|1|759|28|0|5|0|2231|97|34|7|0|0|2642|3|2|1|0|31|72|19|0|0|1|2477|1|0|26|10|54|0|5|0|959|1|0|1|17|0|5|2|88|1|2|2|1|1896|3|1|3|2|0|1|0|13|16|0|1|0|318|0|0|39|18|1|0|0|2|1070|0|0|1|0|27|5|3|0|1|2|519|2|2|0|0|2|0|128|0|0|0|0|33|0|0|1|0|0|0|0|0|0|0|1|2321</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="Wavelength">460.804993</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">2.1191580161825</MDI>
+      <MDI key="STATISTICS_STDDEV">5.7557851164873</MDI>
+      <MDI key="STATISTICS_COVARIANCES">33.1290623071772</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Description>Mosaic (Band 13) (465.403015)</Description>
+    <Metadata>
+      <MDI key="Wavelength">465.403015</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Description>Mosaic (Band 14) (470.000000)</Description>
+    <Metadata>
+      <MDI key="Wavelength">470.000000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Description>Mosaic (Band 15) (474.595001)</Description>
+    <Metadata>
+      <MDI key="Wavelength">474.595001</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Description>Mosaic (Band 16) (479.188995)</Description>
+    <Metadata>
+      <MDI key="Wavelength">479.188995</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Description>Mosaic (Band 17) (483.781006)</Description>
+    <Metadata>
+      <MDI key="Wavelength">483.781006</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Description>Mosaic (Band 18) (488.372009)</Description>
+    <Metadata>
+      <MDI key="Wavelength">488.372009</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Description>Mosaic (Band 19) (492.962006)</Description>
+    <Metadata>
+      <MDI key="Wavelength">492.962006</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Description>Mosaic (Band 20) (497.550995)</Description>
+    <Metadata>
+      <MDI key="Wavelength">497.550995</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Description>Mosaic (Band 21) (502.138000)</Description>
+    <Metadata>
+      <MDI key="Wavelength">502.138000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Description>Mosaic (Band 22) (506.722992)</Description>
+    <Metadata>
+      <MDI key="Wavelength">506.722992</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Description>Mosaic (Band 23) (511.308014)</Description>
+    <Metadata>
+      <MDI key="Wavelength">511.308014</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Description>Mosaic (Band 24) (515.890991)</Description>
+    <Metadata>
+      <MDI key="Wavelength">515.890991</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Description>Mosaic (Band 25) (520.471985)</Description>
+    <Metadata>
+      <MDI key="Wavelength">520.471985</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Description>Mosaic (Band 26) (525.052002)</Description>
+    <Metadata>
+      <MDI key="Wavelength">525.052002</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <Description>Mosaic (Band 27) (529.630981)</Description>
+    <Metadata>
+      <MDI key="Wavelength">529.630981</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <Description>Mosaic (Band 28) (534.208984)</Description>
+    <Metadata>
+      <MDI key="Wavelength">534.208984</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <Description>Mosaic (Band 29) (538.784973)</Description>
+    <Metadata>
+      <MDI key="Wavelength">538.784973</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <Description>Mosaic (Band 30) (543.359009)</Description>
+    <Metadata>
+      <MDI key="Wavelength">543.359009</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <Description>Mosaic (Band 31) (550.000000)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>37759838|2300|25607|173969|1129118|3809048|5665606|4659598|3112388|2249324|2006842|1897454|1588093|1032741|784681|488937|418938|314009|227104|177641|163394|168751|178980|181488|171130|141727|106696|80918|54274|40149|29190|18159|16064|12770|10805|11387|10831|6614|6442|7874|6007|6709|4767|3469|6676|5625|6110|2891|6980|3785|4557|4335|3732|4789|4209|4951|3662|3224|4359|2620|5906|1953|2998|3563|1510|2890|3459|2674|2570|2040|2225|2418|3384|1623|1586|2107|1324|1378|2134|1857|1102|1627|979|1500|2156|1173|1019|669|1741|904|1044|1186|531|1234|728|529|1262|944|629|748|411|401|356|1516|400|267|420|405|809|574|333|396|179|599|345|376|232|171|539|155|404|342|119|357|167|167|236|239|159|121|251|118|235|456|58|118|102|131|175|124|113|96|99|75|136|138|80|149|118|46|132|173|109|48|41|59|90|104|35|72|94|47|59|28|80|49|50|27|44|37|64|16|20|30|24|21|27|13|9|36|10|7|5|7|1|13|6|13|36|5|9|11|7|0|1|4|2|0|6|1|23|2|5|0|2|2|6|2|1|2|0|1|3|2|3|0|1|1|0|0|1|0|3|4|3|2|1|2|0|5|0|2|4|2|1|2|1|1|3|2|0|0|4|0|3|0|1|3|1|0|3|2|1|2|7|104</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="Wavelength">550.000000</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">4.2460636181761</MDI>
+      <MDI key="STATISTICS_STDDEV">6.4278267844098</MDI>
+      <MDI key="STATISTICS_COVARIANCES">41.3169571703764</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <Description>Mosaic (Band 32) (552.505005)</Description>
+    <Metadata>
+      <MDI key="Wavelength">552.505005</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <Description>Mosaic (Band 33) (557.075989)</Description>
+    <Metadata>
+      <MDI key="Wavelength">557.075989</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <Description>Mosaic (Band 34) (561.645020)</Description>
+    <Metadata>
+      <MDI key="Wavelength">561.645020</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <Description>Mosaic (Band 35) (566.213013)</Description>
+    <Metadata>
+      <MDI key="Wavelength">566.213013</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <Description>Mosaic (Band 36) (570.778992)</Description>
+    <Metadata>
+      <MDI key="Wavelength">570.778992</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <Description>Mosaic (Band 37) (575.344971)</Description>
+    <Metadata>
+      <MDI key="Wavelength">575.344971</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <Description>Mosaic (Band 38) (579.908997)</Description>
+    <Metadata>
+      <MDI key="Wavelength">579.908997</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <Description>Mosaic (Band 39) (584.471008)</Description>
+    <Metadata>
+      <MDI key="Wavelength">584.471008</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <Description>Mosaic (Band 40) (589.031982)</Description>
+    <Metadata>
+      <MDI key="Wavelength">589.031982</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <Description>Mosaic (Band 41) (593.591980)</Description>
+    <Metadata>
+      <MDI key="Wavelength">593.591980</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="42">
+    <Description>Mosaic (Band 42) (598.150024)</Description>
+    <Metadata>
+      <MDI key="Wavelength">598.150024</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="43">
+    <Description>Mosaic (Band 43) (602.706970)</Description>
+    <Metadata>
+      <MDI key="Wavelength">602.706970</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="44">
+    <Description>Mosaic (Band 44) (607.263000)</Description>
+    <Metadata>
+      <MDI key="Wavelength">607.263000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="45">
+    <Description>Mosaic (Band 45) (611.817017)</Description>
+    <Metadata>
+      <MDI key="Wavelength">611.817017</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="46">
+    <Description>Mosaic (Band 46) (616.369995)</Description>
+    <Metadata>
+      <MDI key="Wavelength">616.369995</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="47">
+    <Description>Mosaic (Band 47) (620.000000)</Description>
+    <Metadata>
+      <MDI key="Wavelength">620.000000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="48">
+    <Description>Mosaic (Band 48) (625.471985)</Description>
+    <Metadata>
+      <MDI key="Wavelength">625.471985</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="49">
+    <Description>Mosaic (Band 49) (630.020996)</Description>
+    <Metadata>
+      <MDI key="Wavelength">630.020996</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="50">
+    <Description>Mosaic (Band 50) (634.568970)</Description>
+    <Metadata>
+      <MDI key="Wavelength">634.568970</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="51">
+    <Description>Mosaic (Band 51) (639.114990)</Description>
+    <Metadata>
+      <MDI key="Wavelength">639.114990</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="52">
+    <Description>Mosaic (Band 52) (643.658997)</Description>
+    <Metadata>
+      <MDI key="Wavelength">643.658997</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="53">
+    <Description>Mosaic (Band 53) (648.203003)</Description>
+    <Metadata>
+      <MDI key="Wavelength">648.203003</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="54">
+    <Description>Mosaic (Band 54) (652.744995)</Description>
+    <Metadata>
+      <MDI key="Wavelength">652.744995</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="55">
+    <Description>Mosaic (Band 55) (657.286011)</Description>
+    <Metadata>
+      <MDI key="Wavelength">657.286011</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="56">
+    <Description>Mosaic (Band 56) (661.825012)</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>37764057|1333052|6621283|7285916|3556927|1683876|1037864|872052|805235|738552|744840|766247|826431|758554|179890|586998|473548|389015|296098|245166|184454|163889|162189|131543|126878|128068|137503|157564|140376|136598|110594|88793|70174|66968|42600|34862|30102|32924|16973|15269|9759|7402|6664|3003|23770|2982|2443|2071|3769|1394|7923|1738|1242|11288|954|1762|931|8580|902|4881|1493|764|617|591|510|1143|16544|307|315|298|233|129|302|628|2541|175|4740|489|102|5846|81|186|109|2572|291|103|358|57|6447|82|85|59|486|50|2771|33|123|151|31|14|2672|28|36|627|17|35|3112|151|52|35|2686|13|13|1269|29|19|543|173|22|106|33|40|33|31|28|20|31|18|4|205|56|13|18|4882|9|16|17|21|20|16|22|21|22|17|17|23|23|48|147|34|40|262|22|26|606|31|1|15|8|703|44|25|22|10|8|465|15|7|16|7|86|17|15|16|9|8|416|9|9|13|11|27|23|7|12|301|16|4|9|37|3|1|0|21|0|1|10|2|441|10|7|12|7|8|0|2|6|14|0|0|0|136|0|0|4|12|0|0|0|0|99|0|0|0|0|7|4|9|0|0|0|117|2|0|0|0|1|2|29|0|0|1|0|28|0|0|3|0|10|0|0|0|0|0|0|515</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="Wavelength">661.825012</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">3.1801014590781</MDI>
+      <MDI key="STATISTICS_STDDEV">6.6525195073519</MDI>
+      <MDI key="STATISTICS_COVARIANCES">44.256015795698</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="57">
+    <Description>Mosaic (Band 57) (666.362976)</Description>
+    <Metadata>
+      <MDI key="Wavelength">666.362976</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="58">
+    <Description>Mosaic (Band 58) (670.900024)</Description>
+    <Metadata>
+      <MDI key="Wavelength">670.900024</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="59">
+    <Description>Mosaic (Band 59) (675.434998)</Description>
+    <Metadata>
+      <MDI key="Wavelength">675.434998</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="60">
+    <Description>Mosaic (Band 60) (679.968994)</Description>
+    <Metadata>
+      <MDI key="Wavelength">679.968994</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="61">
+    <Description>Mosaic (Band 61) (684.500977)</Description>
+    <Metadata>
+      <MDI key="Wavelength">684.500977</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="62">
+    <Description>Mosaic (Band 62) (689.031982)</Description>
+    <Metadata>
+      <MDI key="Wavelength">689.031982</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="63">
+    <Description>Mosaic (Band 63) (693.562012)</Description>
+    <Metadata>
+      <MDI key="Wavelength">693.562012</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="64">
+    <Description>Mosaic (Band 64) (698.091003)</Description>
+    <Metadata>
+      <MDI key="Wavelength">698.091003</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="65">
+    <Description>Mosaic (Band 65) (702.617981)</Description>
+    <Metadata>
+      <MDI key="Wavelength">702.617981</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="66">
+    <Description>Mosaic (Band 66) (707.143005)</Description>
+    <Metadata>
+      <MDI key="Wavelength">707.143005</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="67">
+    <Description>Mosaic (Band 67) (711.668030)</Description>
+    <Metadata>
+      <MDI key="Wavelength">711.668030</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="68">
+    <Description>Mosaic (Band 68) (716.190979)</Description>
+    <Metadata>
+      <MDI key="Wavelength">716.190979</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="69">
+    <Description>Mosaic (Band 69) (720.711975)</Description>
+    <Metadata>
+      <MDI key="Wavelength">720.711975</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="70">
+    <Description>Mosaic (Band 70) (725.232971)</Description>
+    <Metadata>
+      <MDI key="Wavelength">725.232971</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="71">
+    <Description>Mosaic (Band 71) (729.750977)</Description>
+    <Metadata>
+      <MDI key="Wavelength">729.750977</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="72">
+    <Description>Mosaic (Band 72) (734.268982)</Description>
+    <Metadata>
+      <MDI key="Wavelength">734.268982</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="73">
+    <Description>Mosaic (Band 73) (738.784973)</Description>
+    <Metadata>
+      <MDI key="Wavelength">738.784973</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="74">
+    <Description>Mosaic (Band 74) (743.299988)</Description>
+    <Metadata>
+      <MDI key="Wavelength">743.299988</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="75">
+    <Description>Mosaic (Band 75) (747.812988)</Description>
+    <Metadata>
+      <MDI key="Wavelength">747.812988</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="76">
+    <Description>Mosaic (Band 76) (752.325012)</Description>
+    <Metadata>
+      <MDI key="Wavelength">752.325012</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="77">
+    <Description>Mosaic (Band 77) (756.835999)</Description>
+    <Metadata>
+      <MDI key="Wavelength">756.835999</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="78">
+    <Description>Mosaic (Band 78) (761.346008)</Description>
+    <Metadata>
+      <MDI key="Wavelength">761.346008</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="79">
+    <Description>Mosaic (Band 79) (765.854004)</Description>
+    <Metadata>
+      <MDI key="Wavelength">765.854004</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="80">
+    <Description>Mosaic (Band 80) (770.359985)</Description>
+    <Metadata>
+      <MDI key="Wavelength">770.359985</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="81">
+    <Description>Mosaic (Band 81) (774.864990)</Description>
+    <Metadata>
+      <MDI key="Wavelength">774.864990</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="82">
+    <Description>Mosaic (Band 82) (779.369019)</Description>
+    <Metadata>
+      <MDI key="Wavelength">779.369019</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="83">
+    <Description>Mosaic (Band 83) (783.872009)</Description>
+    <Metadata>
+      <MDI key="Wavelength">783.872009</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="84">
+    <Description>Mosaic (Band 84) (788.372986)</Description>
+    <Metadata>
+      <MDI key="Wavelength">788.372986</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="85">
+    <Description>Mosaic (Band 85) (792.872986)</Description>
+    <Metadata>
+      <MDI key="Wavelength">792.872986</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="86">
+    <Description>Mosaic (Band 86) (797.370972)</Description>
+    <Metadata>
+      <MDI key="Wavelength">797.370972</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="87">
+    <Description>Mosaic (Band 87) (801.867981)</Description>
+    <Metadata>
+      <MDI key="Wavelength">801.867981</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="88">
+    <Description>Mosaic (Band 88) (806.364014)</Description>
+    <Metadata>
+      <MDI key="Wavelength">806.364014</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="89">
+    <Description>Mosaic (Band 89) (810.857971)</Description>
+    <Metadata>
+      <MDI key="Wavelength">810.857971</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="90">
+    <Description>Mosaic (Band 90) (815.351990)</Description>
+    <Metadata>
+      <MDI key="Wavelength">815.351990</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="91">
+    <Description>Mosaic (Band 91) (819.843018)</Description>
+    <Metadata>
+      <MDI key="Wavelength">819.843018</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="92">
+    <Description>Mosaic (Band 92) (824.333008)</Description>
+    <Metadata>
+      <MDI key="Wavelength">824.333008</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="93">
+    <Description>Mosaic (Band 93) (828.822021)</Description>
+    <Metadata>
+      <MDI key="Wavelength">828.822021</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="94">
+    <Description>Mosaic (Band 94) (833.309998)</Description>
+    <Metadata>
+      <MDI key="Wavelength">833.309998</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="95">
+    <Description>Mosaic (Band 95) (837.796021)</Description>
+    <Metadata>
+      <MDI key="Wavelength">837.796021</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="96">
+    <Description>Mosaic (Band 96) (842.281006)</Description>
+    <Metadata>
+      <MDI key="Wavelength">842.281006</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="97">
+    <Description>Mosaic (Band 97) (846.763977)</Description>
+    <Metadata>
+      <MDI key="Wavelength">846.763977</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="98">
+    <Description>Mosaic (Band 98) (851.245972)</Description>
+    <Metadata>
+      <MDI key="Wavelength">851.245972</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="99">
+    <Description>Mosaic (Band 99) (855.726990)</Description>
+    <Metadata>
+      <MDI key="Wavelength">855.726990</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="100">
+    <Description>Mosaic (Band 100) (860.206970)</Description>
+    <Metadata>
+      <MDI key="Wavelength">860.206970</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="101">
+    <Description>Mosaic (Band 101) (864.684998)</Description>
+    <Metadata>
+      <MDI key="Wavelength">864.684998</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="102">
+    <Description>Mosaic (Band 102) (869.161011)</Description>
+    <Metadata>
+      <MDI key="Wavelength">869.161011</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="103">
+    <Description>Mosaic (Band 103) (873.637024)</Description>
+    <Metadata>
+      <MDI key="Wavelength">873.637024</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="104">
+    <Description>Mosaic (Band 104) (878.109985)</Description>
+    <Metadata>
+      <MDI key="Wavelength">878.109985</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="105">
+    <Description>Mosaic (Band 105) (882.583008)</Description>
+    <Metadata>
+      <MDI key="Wavelength">882.583008</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="106">
+    <Description>Mosaic (Band 106) (887.054016)</Description>
+    <Metadata>
+      <MDI key="Wavelength">887.054016</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="107">
+    <Description>Mosaic (Band 107) (891.523987)</Description>
+    <Metadata>
+      <MDI key="Wavelength">891.523987</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="108">
+    <Description>Mosaic (Band 108) (895.992981)</Description>
+    <Metadata>
+      <MDI key="Wavelength">895.992981</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="109">
+    <Description>Mosaic (Band 109) (900.460022)</Description>
+    <Metadata>
+      <MDI key="Wavelength">900.460022</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="110">
+    <Description>Mosaic (Band 110) (904.924988)</Description>
+    <Metadata>
+      <MDI key="Wavelength">904.924988</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="111">
+    <Description>Mosaic (Band 111) (909.390015)</Description>
+    <Metadata>
+      <MDI key="Wavelength">909.390015</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="112">
+    <Description>Mosaic (Band 112) (913.853027)</Description>
+    <Metadata>
+      <MDI key="Wavelength">913.853027</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="113">
+    <Description>Mosaic (Band 113) (918.315002)</Description>
+    <Metadata>
+      <MDI key="Wavelength">918.315002</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="114">
+    <Description>Mosaic (Band 114) (922.775024)</Description>
+    <Metadata>
+      <MDI key="Wavelength">922.775024</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="115">
+    <Description>Mosaic (Band 115) (927.234009)</Description>
+    <Metadata>
+      <MDI key="Wavelength">927.234009</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="116">
+    <Description>Mosaic (Band 116) (931.690979)</Description>
+    <Metadata>
+      <MDI key="Wavelength">931.690979</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="117">
+    <Description>Mosaic (Band 117) (936.148010)</Description>
+    <Metadata>
+      <MDI key="Wavelength">936.148010</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="118">
+    <Description>Mosaic (Band 118) (940.601990)</Description>
+    <Metadata>
+      <MDI key="Wavelength">940.601990</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="119">
+    <Description>Mosaic (Band 119) (945.056030)</Description>
+    <Metadata>
+      <MDI key="Wavelength">945.056030</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="120">
+    <Description>Mosaic (Band 120) (949.507996)</Description>
+    <Metadata>
+      <MDI key="Wavelength">949.507996</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="121">
+    <Description>Mosaic (Band 121) (953.958984)</Description>
+    <Metadata>
+      <MDI key="Wavelength">953.958984</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="122">
+    <Description>Mosaic (Band 122) (958.408020)</Description>
+    <Metadata>
+      <MDI key="Wavelength">958.408020</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

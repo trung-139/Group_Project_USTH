@@ -1,0 +1,72 @@
+ENVI
+description = {
+  Mosaic Result [Mon Oct 17 09:43:30 2022]}
+samples = 8029
+lines   = 8609
+bands   = 122
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {UTM, 1.000, 1.000, 534435.683, 2352901.025, 3.0000000000e-002, 3.0000000000e-002, 48, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_48N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",105.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ Mosaic (Band 1), Mosaic (Band 2), Mosaic (Band 3), Mosaic (Band 4), 
+ Mosaic (Band 5), Mosaic (Band 6), Mosaic (Band 7), Mosaic (Band 8), 
+ Mosaic (Band 9), Mosaic (Band 10), Mosaic (Band 11), Mosaic (Band 12), 
+ Mosaic (Band 13), Mosaic (Band 14), Mosaic (Band 15), Mosaic (Band 16), 
+ Mosaic (Band 17), Mosaic (Band 18), Mosaic (Band 19), Mosaic (Band 20), 
+ Mosaic (Band 21), Mosaic (Band 22), Mosaic (Band 23), Mosaic (Band 24), 
+ Mosaic (Band 25), Mosaic (Band 26), Mosaic (Band 27), Mosaic (Band 28), 
+ Mosaic (Band 29), Mosaic (Band 30), Mosaic (Band 31), Mosaic (Band 32), 
+ Mosaic (Band 33), Mosaic (Band 34), Mosaic (Band 35), Mosaic (Band 36), 
+ Mosaic (Band 37), Mosaic (Band 38), Mosaic (Band 39), Mosaic (Band 40), 
+ Mosaic (Band 41), Mosaic (Band 42), Mosaic (Band 43), Mosaic (Band 44), 
+ Mosaic (Band 45), Mosaic (Band 46), Mosaic (Band 47), Mosaic (Band 48), 
+ Mosaic (Band 49), Mosaic (Band 50), Mosaic (Band 51), Mosaic (Band 52), 
+ Mosaic (Band 53), Mosaic (Band 54), Mosaic (Band 55), Mosaic (Band 56), 
+ Mosaic (Band 57), Mosaic (Band 58), Mosaic (Band 59), Mosaic (Band 60), 
+ Mosaic (Band 61), Mosaic (Band 62), Mosaic (Band 63), Mosaic (Band 64), 
+ Mosaic (Band 65), Mosaic (Band 66), Mosaic (Band 67), Mosaic (Band 68), 
+ Mosaic (Band 69), Mosaic (Band 70), Mosaic (Band 71), Mosaic (Band 72), 
+ Mosaic (Band 73), Mosaic (Band 74), Mosaic (Band 75), Mosaic (Band 76), 
+ Mosaic (Band 77), Mosaic (Band 78), Mosaic (Band 79), Mosaic (Band 80), 
+ Mosaic (Band 81), Mosaic (Band 82), Mosaic (Band 83), Mosaic (Band 84), 
+ Mosaic (Band 85), Mosaic (Band 86), Mosaic (Band 87), Mosaic (Band 88), 
+ Mosaic (Band 89), Mosaic (Band 90), Mosaic (Band 91), Mosaic (Band 92), 
+ Mosaic (Band 93), Mosaic (Band 94), Mosaic (Band 95), Mosaic (Band 96), 
+ Mosaic (Band 97), Mosaic (Band 98), Mosaic (Band 99), Mosaic (Band 100), 
+ Mosaic (Band 101), Mosaic (Band 102), Mosaic (Band 103), Mosaic (Band 104), 
+ Mosaic (Band 105), Mosaic (Band 106), Mosaic (Band 107), Mosaic (Band 108), 
+ Mosaic (Band 109), Mosaic (Band 110), Mosaic (Band 111), Mosaic (Band 112), 
+ Mosaic (Band 113), Mosaic (Band 114), Mosaic (Band 115), Mosaic (Band 116), 
+ Mosaic (Band 117), Mosaic (Band 118), Mosaic (Band 119), Mosaic (Band 120), 
+ Mosaic (Band 121), Mosaic (Band 122)}
+wavelength = {
+ 410.138000, 414.751007, 419.363007, 423.972992, 428.582001, 433.188995,
+ 437.795013, 442.399994, 447.002991, 451.605011, 456.205994, 460.804993,
+ 465.403015, 470.000000, 474.595001, 479.188995, 483.781006, 488.372009,
+ 492.962006, 497.550995, 502.138000, 506.722992, 511.308014, 515.890991,
+ 520.471985, 525.052002, 529.630981, 534.208984, 538.784973, 543.359009,
+ 550.000000, 552.505005, 557.075989, 561.645020, 566.213013, 570.778992,
+ 575.344971, 579.908997, 584.471008, 589.031982, 593.591980, 598.150024,
+ 602.706970, 607.263000, 611.817017, 616.369995, 620.000000, 625.471985,
+ 630.020996, 634.568970, 639.114990, 643.658997, 648.203003, 652.744995,
+ 657.286011, 661.825012, 666.362976, 670.900024, 675.434998, 679.968994,
+ 684.500977, 689.031982, 693.562012, 698.091003, 702.617981, 707.143005,
+ 711.668030, 716.190979, 720.711975, 725.232971, 729.750977, 734.268982,
+ 738.784973, 743.299988, 747.812988, 752.325012, 756.835999, 761.346008,
+ 765.854004, 770.359985, 774.864990, 779.369019, 783.872009, 788.372986,
+ 792.872986, 797.370972, 801.867981, 806.364014, 810.857971, 815.351990,
+ 819.843018, 824.333008, 828.822021, 833.309998, 837.796021, 842.281006,
+ 846.763977, 851.245972, 855.726990, 860.206970, 864.684998, 869.161011,
+ 873.637024, 878.109985, 882.583008, 887.054016, 891.523987, 895.992981,
+ 900.460022, 904.924988, 909.390015, 913.853027, 918.315002, 922.775024,
+ 927.234009, 931.690979, 936.148010, 940.601990, 945.056030, 949.507996,
+ 953.958984, 958.408020}
+system type = 2
+main file format = 0
+gps file included = 1
