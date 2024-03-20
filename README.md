@@ -1,2 +1,1 @@
-# Group_Project_USTH
-Private for group project
+# GP2_Group_Project
